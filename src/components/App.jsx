@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css'
-import TitleBar from '../TitleBar/TitleBar';
-import BookViewer from '../BookViewer/BookViewer';
+import TitleBar from './TitleBar/TitleBar';
+import BookViewer from './BookViewer/BookViewer';
 
 class App extends Component {
     constructor(props){
